@@ -14,10 +14,5 @@ assign C[2] = B[2]^subsel;
 assign C[3] = B[3]^subsel;
 add4 addsubstage1(.carryin(subsel), .X(A), .Y(C), .S(X), .carryout(cout), .ovf(ovf));
 
-//
-// fill in the verilog code here, using the add4 module,
-//   to implement both addition and subtraction.
-//
-   
 endmodule
 
