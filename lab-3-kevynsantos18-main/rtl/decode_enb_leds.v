@@ -18,7 +18,5 @@ always @(sel)
         default: enb_leds = 7'b00000000;
         endcase
 
-//
-// Complete this block
-//
+
 endmodule
