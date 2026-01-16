@@ -24,8 +24,4 @@ always @(in0, in1, in2, sel)
 
 
 
-
-//
-// Complete this block
-//
 endmodule
