@@ -1,10 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/tW37cUZ3)
-# ece3300l-lab3
-
-ECE3300L Lab 3
-
-Add your testbench code under the directory 'tb/'
-
-Add you source code under the directory 'rtl/'
-
-Starter code is in the directory 'skel/'
+In this lab we  add the BCD "double-dabble" to our previous calculator and then display the output on to our seven segment displays. Double dabble is essentially an algorithm to convert binary to Binary coded decimal. It repeatedly shifts bits and adds 3 to any digit that’s 5 or more, until the binary number becomes decimal digits.
