@@ -1,1 +1,1 @@
-# add your test-bench Verilog files to this directory
+test_bench
