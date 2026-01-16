@@ -55,14 +55,5 @@ begin
     endcase
 end
    					  
-// 
-// add the verilog code here to provide the correct pwm signals to the
-//  red, green and blue led lights to create the desired color.
-//
-//  RED = red on at 25% duty cycle pwm  
-//  YELLOW = red & green on at 12% duty cycle pwm
-//  GREEN = green on at 25% duty cycle pwm
-//  OFF = all led outputs set to 0   
-
 endmodule   
 
