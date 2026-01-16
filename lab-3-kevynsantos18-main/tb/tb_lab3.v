@@ -50,8 +50,5 @@ module tb_lab3();
         $finish;
      end
 
-//
-// You must add more tests here
-//	
 
 endmodule // tb_lab3                                                                                                                                          
