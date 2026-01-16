@@ -1,10 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/bmv-OXJv)
-# ece3300l-lab4
-
-ECE3300L Lab 4
-
-Add your testbench code under the directory 'tb/'
-
-Add you source code under the directory 'rtl/'
-
-Starter code is in the directory 'skel/'
+In this lab we make a mock intersection on the FPGA using two RGB LEDs. We keep traffic light 1 at green for 4 seconds, then yellow for 1, then red for 7. Traffic light 2 is at red for 6 seconds, then green for 4 seconds, then yellow for 1 second, then red again for 1 second. The RGB LED is controlled using PWM signals for each of its colors (red,green,blue)
