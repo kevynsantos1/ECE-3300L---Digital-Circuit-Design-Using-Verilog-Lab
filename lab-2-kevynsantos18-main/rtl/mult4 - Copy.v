@@ -41,11 +41,6 @@ assign X[6:3]= tempprod;
 
 
    
-endmodule // mult4
-//
-// fill in the verilog code here to implement a 4-bit multiplier, 
-// using multiple instances of the add4 module.
-//   
-   
+endmodule 
 
 
